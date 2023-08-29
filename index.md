@@ -9,8 +9,13 @@ Welcome to my realm of computer science.
 I hope you will join me on my journey while I uncover the secrets of computer science.
 
  
-## About me
-I am a sophomore at Del Norte High School. I play tennis and I love STEM.
+## READ ME
+
+- 👋 Hi, I’m Ryan Liu
+- 👀 I’m interested in math and science
+- 🌱 I’m currently learning physics: mechanics
+- 💞️ I’m looking to collaborate on any projects
+
 ![aboutryan](images/ryanaboutme.png)
 
 This is my favorite tennis match:
